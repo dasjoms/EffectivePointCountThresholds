@@ -1,0 +1,6 @@
+sympy>=1.12
+
+# Optional — used by `scripts/generate_higher_genus_families.py`
+# to recompute `data/higher_genus_families.json` via HNF and LLL:
+# python-flint>=0.6.0
+# numpy>=1.24
